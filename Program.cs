@@ -1,5 +1,7 @@
 ﻿using System;
 
+
+//dotnet run
 class Program {
   public static void Main (string[] args) {
   // data types
